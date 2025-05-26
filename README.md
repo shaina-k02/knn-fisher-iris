@@ -1,8 +1,9 @@
 # Knn Investigation using the Fisher-Iris Dataset
 
-Objective: In this project, We will apply the K-Nearest Neighbors (KNN) algorithm to the Iris dataset. Our goal is to explore how sensitive the algorithm is to the parameter k (the number of neighbors). We'll use Stratified K-Fold Cross-Validation to assess the model performance for different values of k, ranging from 1 to 20, and analyze the results.
+### Objective: 
+In this project, We will apply the K-Nearest Neighbors (KNN) algorithm to the Iris dataset. Our goal is to explore how sensitive the algorithm is to the parameter k (the number of neighbors). We'll use Stratified K-Fold Cross-Validation to assess the model performance for different values of k, ranging from 1 to 20, and analyze the results.
 
-The Fisher-Iris Dataset
+### The Fisher-Iris Dataset
 
 The dataset is composed of 150 samples of irises (flowers) with four attributes per flower. There are three species of iris with 50 samples of each kind. The dataset is a simple one to use for classification tasks where the goal is to predict the label (species) by using the four attributes.
 
